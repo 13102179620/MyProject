@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HomeWork5_7</string>
+    <string name="Regist">用户注册</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="city_names">
+
+        <item>A</item>
+        <item>安庆</item>
+        <item>安宁</item>
+        <item>鞍山</item>
+        <item>安阳</item>
+        <item>B</item>
+        <item>白山</item>
+        <item>保定</item>
+        <item>白城</item>
+        <item>北京</item>
+        <item>C</item>
+        <item>常州</item>
+        <item>长沙</item>
+        <item>昌平</item>
+        <item>长春</item>
+        <item>D</item>
+        <item>大庆</item>
+        <item>大连</item>
+        <item>大同</item>
+        <item>E</item>
+        <item>鄂尔多斯</item>
+        <item>F</item>
+        <item>佛山</item>
+        <item>费城</item>
+
+
+
+    </string-array>
+
+
+
+</resources>
